@@ -1,2 +1,2 @@
 # DSW_Group_Project
-Final Year Group Project [PHP; Javascript; CSS; HTML]
+Final Year Group Project [Javascript; CSS; HTML]
